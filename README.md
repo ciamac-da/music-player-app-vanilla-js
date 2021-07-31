@@ -1,5 +1,5 @@
 https://ciamac-da.github.io/music-player-app-vanilla-js/
 
-![](assets/images/1.jpg)
+![](assets/images/1.png)
 
-![](assets/images/2.jpg)
+![](assets/images/2.png)
