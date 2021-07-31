@@ -79,11 +79,22 @@ transform: rotate(360deg);
   cursor: pointer;
   padding: 10px;
   margin: 0 20px;
+  transition: 1s
+}
+.action-btn:hover {
+  color: #111;
+  transition: 1s
 }
 .action-btn.action-btn-big {
   color: #cdc2d0;
-  font-size: 30px
+  font-size: 30px;
+  transition: 1s
 }
+.action-btn.action-btn-big:hover {
+  color: #111;
+  transition: 1s
+}
+
 .action-btn:focus {
   outline: 0
 }
